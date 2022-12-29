@@ -1,0 +1,29 @@
+/* universal selector */
+* {
+  text-align: center;
+  color: blue;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* p element selector */
+p {
+  background-color: blue;
+  font-size: large;
+}
+/* div element selector */
+div {
+  background-color: aqua;
+}
+
+/* id selector (#) */
+#uniqueHeading {
+  color: red;
+  background-color: aqua;
+  border: 2px solid black;
+}
+
+/* class selector (.) */
+.center {
+  text-align: center;
+  color: red;
+}
